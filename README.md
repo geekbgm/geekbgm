@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @geekbgm
+- 👀 I’m interested in machine learning. especially, i'm interested reinforcement learning
+- 🌱 I’m currently learning about reinforcement learning
+- 📫 How to reach me bgm1425@gmail.com
