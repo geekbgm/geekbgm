@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @geekbgm
-- 👀 I’m interested in machine learning. especially, i'm interested self-supervised learning and reinforcement learning
-- 🌱 I’m currently learning about self-supervised learning
-- 📫 How to reach you? please send me mail to bgm1425@gmail.com
+- i'm studying for master's degree at inha university.
+- 👀 I’m interested in machine learning. especially, i'm interested self-supervised learning and reinforcement learning.
+- 🌱 I’m currently learning about self-supervised learning.
+- I'm looking for team about study group that develop self-supervised learning algorithm.
+- 📫 How to reach you? please, send me mail to bgm1425@gmail.com.
