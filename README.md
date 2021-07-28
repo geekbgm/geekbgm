@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @geekbgm
-- i'm studying for master's degree at inha university.
+- i'm M.E candidate at inha university.
 - 👀 I’m interested in machine learning. especially, i'm interested self-supervised learning and reinforcement learning.
 - 🌱 I’m currently learning about self-supervised learning.
 - I'm looking for team about study group that develop self-supervised learning algorithm.
